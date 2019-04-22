@@ -1,0 +1,6 @@
+#
+# USB configuration
+#
+
+on boot
+	setprop sys.usb.configfs 1
